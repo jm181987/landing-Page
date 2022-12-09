@@ -1,9 +1,9 @@
 
 import React from "react";
-import { Navbar } from "./navbar";
-import { Jumbotron } from "./jumbotron";
-import { ContenedorCard } from "./contenedorCard";
-import { Footer} from "./footer";
+import { Navbar } from "/src/component/navbar.js";
+import { Jumbotron } from "/src/component/jumbotron.js";
+import { ContenedorCard } from "/src/component/contenedorCard.js";
+import { Footer} from "/src/component/footer.js";
 
 
 export function Main() {

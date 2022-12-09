@@ -1,5 +1,5 @@
 import React from "react";
-import { Card } from "/workspace/react-hello/src/component/card.js";
+import { Card } from "/src/component/card.js";
 
 export function ContenedorCard() {
     return <div class="row text-center">
